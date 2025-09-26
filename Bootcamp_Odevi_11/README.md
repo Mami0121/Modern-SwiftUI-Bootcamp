@@ -24,22 +24,22 @@ Kullanıcılar karakterleri listeleyebilir, detaylarını görüntüleyebilir ve
 
 ## Proje Mimarisi (MVVM)
 Bootcamp_Odevi_11/
-│
-├── Models/              → API modelleri (Character, APIResponse)
-├── ViewModels/          → İş mantığı ve veri yönetimi
-├── Views/               → SwiftUI ekranları (List, Detail, Favorites, ErrorView)
-├── Network/             → NetworkService + API çağrıları
-├── Managers/            → FavoritesManager (UserDefaults yönetimi)
-├── Tests/               → Unit test & Mock servisler
-└── README.md            → Proje açıklamaları
+
+- Models/              → API modelleri (Character, APIResponse)
+- ViewModels/          → İş mantığı ve veri yönetimi
+- Views/               → SwiftUI ekranları (List, Detail, Favorites, ErrorView)
+- Network/             → NetworkService + API çağrıları
+- Managers/            → FavoritesManager (UserDefaults yönetimi)
+- Tests/               → Unit test & Mock servisler
+- README.md            → Proje açıklamaları
 
 ## 📸 Ekran Görüntüleri
 
 Ana Ekran:  
-![Ana Ekran](Screenshots/home.png)
+<img src="Screenshots/home.png" alt="Ana Ekran" width="300">
 
 Detay Ekranı:  
-![Detay Ekranı](Screenshots/detail.png)
+<img src="Screenshots/detail.png" alt="Detay Ekranı" width="300">
 
 Favoriler Ekranı:  
-![Favoriler Ekranı](Screenshots/favorites.png)
+<img src="Screenshots/favorites.png" alt="Favoriler Ekranı" width="300">
