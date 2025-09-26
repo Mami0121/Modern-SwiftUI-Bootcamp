@@ -35,11 +35,10 @@ Bootcamp_Odevi_11/
 
 ## 📸 Ekran Görüntüleri
 
-Ana Ekran:  
-<img src="Screenshots/home.png" alt="Ana Ekran" width="300">
+<div style="display: flex; gap: 10px;">
 
-Detay Ekranı:  
-<img src="Screenshots/detail.png" alt="Detay Ekranı" width="300">
+<img src="Screenshots/home.png" alt="Ana Ekran" width="200">
+<img src="Screenshots/detail.png" alt="Detay Ekranı" width="200">
+<img src="Screenshots/favorites.png" alt="Favoriler Ekranı" width="200">
 
-Favoriler Ekranı:  
-<img src="Screenshots/favorites.png" alt="Favoriler Ekranı" width="300">
+</div>
